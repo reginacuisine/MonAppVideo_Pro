@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545767765158",
+    "project_id": "monappvideo-6d93a",
+    "storage_bucket": "monappvideo-6d93a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545767765158:android:eb6e738aff4ab14e923067",
+        "android_client_info": {
+          "package_name": "com.regina.video_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNCV270EBAQuQt2o8Up_ud8_iY6r1AVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
